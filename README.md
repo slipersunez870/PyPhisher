@@ -171,7 +171,7 @@ If not found, php and python modoules will be installed on first run
  - Some secured browsers like Firefox can warn for '@' prefixed links. You should use pure links or custom link to avoid it.
  - Termux from play store in not supported. Download termux from fdroid or github
  - VPN or proxy prevents tunneling and even proper internet access. Turn them off you have issues.
- - Some android requires hotspot to start Cloudflared and Loclx. If you face 'tunneling failed' in android, most probably your hotspot is turned off. Turn it on and keep it on untill you close PyPhisher.
+ - Some android requires hotspot to start Cloudflared and Loclx. If you face 'tunneling failed' in android, most probably your hotspot is turned off. Turn it on and keep it on until you close PyPhisher.
  - If you want mailing credentials then you need to use app password. Visit [here](https://myaccount.google.com/u/0/apppasswords) and generate an app password, put that in `files/email.json`. You may need to enable 2FA before it.
  
 ## [!] Disclaimer
